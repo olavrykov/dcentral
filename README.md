@@ -1,1 +1,3 @@
 # dcentral
+
+delphi 7 
